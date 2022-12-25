@@ -2,7 +2,6 @@
 bin/
 target/
 tmp/
-wuffy/
 *.tmp
 *.bak
 *.swp
